@@ -1,0 +1,28 @@
+name: Cycling Octopus
+favicon: null
+layout_spectrum: 0.6716254290658981
+typography_spectrum: 0.5846989350393414
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.15964814834296703
+  lightness: 0.21817898703739047
+  saturation: 0.6679682980757207
+  rhythmicContrast: 0.5749725918285549
+purpose: []
